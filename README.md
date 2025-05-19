@@ -125,8 +125,9 @@ Copy
 Edit
 python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
+
 🚀 Running the Analysis
-Open Cleaned_Project1.ipynb to explore and clean the dataset, and visualize global trends.
+ Life Expectancy Projec.ipynb to explore and clean the dataset, and visualize global trends.
 
 Open Regression Project.ipynb to run predictive modeling and evaluate regression performance.
 
