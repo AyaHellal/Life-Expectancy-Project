@@ -95,19 +95,13 @@ Visualize prediction performance and compare results
 
 Files Used:
 
-Clean Life Expectancy Data.csv
+Life Expectancy Data.csv
 
 ▶️ How to Run the Code
 📁 Required Files
 Ensure the following files are present in your working directory:
 
 Life Expectancy Data.csv
-
-Clean Life Expectancy Data.csv
-
-countries.geo.json
-
-Cleaned_Project1.ipynb
 
 Regression Project.ipynb
 
